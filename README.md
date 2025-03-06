@@ -86,7 +86,7 @@ Binary File Support: Works with all file types without corruption.
 This C++ program efficiently compresses and decompresses files using multi-threading and zlib. By dividing files into chunks and processing them in parallel, it significantly improves performance. It is a useful tool for managing large files while maintaining data integrity.
 
 **IMAGE**
-![Image](https://github.com/user-attachments/assets/fbdac776-9e5c-4a4a-b64e-882dc3f36bf8)
+
 
 
 
